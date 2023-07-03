@@ -1,0 +1,13 @@
+body{
+    margin: 10px 10px;
+}
+
+
+.banner {
+    background-color: #006d77;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
